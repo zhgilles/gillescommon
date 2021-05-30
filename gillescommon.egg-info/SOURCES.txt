@@ -1,0 +1,8 @@
+README.md
+setup.cfg
+setup.py
+gillescommon.egg-info/PKG-INFO
+gillescommon.egg-info/SOURCES.txt
+gillescommon.egg-info/dependency_links.txt
+gillescommon.egg-info/requires.txt
+gillescommon.egg-info/top_level.txt
