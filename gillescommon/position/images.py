@@ -63,3 +63,4 @@ dispatch_me = Template(r"dispatch_me.png", record_pos=(0.313, -0.169), resolutio
 dispatch_2_me = Template(r"dispatch_me.png", record_pos=(0.309, -0.101), resolution=(1440, 811))
 dispatch_2_me = Template(r"dispatch_me.png", record_pos=(0.309, -0.101), resolution=(1440, 811))
 dispatch_3_me = Template(r"dispatch_me.png", record_pos=(0.322, -0.023), resolution=(1440, 811))
+cross_2_me = Template(r"cross_2_me.png", record_pos=(0.356, -0.227), resolution=(1440, 811))
