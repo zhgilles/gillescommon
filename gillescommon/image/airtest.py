@@ -1,1 +1,0 @@
-Template(r"tpl1622522720456.png", record_pos=(-0.299, 0.183), resolution=(1440, 811))
