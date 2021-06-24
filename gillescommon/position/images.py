@@ -65,6 +65,8 @@ dispatch_2_me = Template(r"dispatch_me.png", record_pos=(0.309, -0.101), resolut
 dispatch_3_me = Template(r"dispatch_me.png", record_pos=(0.324, -0.019), resolution=(1440, 811))
 cross_2_me = Template(r"cross_2_me.png", record_pos=(0.356, -0.227), resolution=(1440, 811))
 gather_me = Template(r"gather_me.png", record_pos=(0.207, 0.109), resolution=(1440, 811))
+select_troops_2_me = Template(r"select_troops_2_me.png", record_pos=(0.025, 0.206), resolution=(1440, 811))
+march_2_me = Template(r"march_2_me.png", record_pos=(0.231, 0.207), resolution=(1440, 811))
 
 
 
