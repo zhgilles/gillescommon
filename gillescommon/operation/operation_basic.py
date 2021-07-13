@@ -4,14 +4,13 @@ from airtest.core.api import touch, exists, sleep, text, swipe, keyevent
 from gillescommon.position.images import cross, ok
 
 
-def my_touch(v, wait_time=0.5):
-    touch(v)
+def my_touch(v, wait_time=0.5, **kwargs):
+    touch(v, **kwargs)
     sleep(wait_time)
 
 
-def my_exist(v):
-    res = exists(v)
-    return res
+def my_exist(v, **kwargs):
+    return exists(v, **kwargs)
 
 
 def my_text(*args, wait_time=0, **kwargs):

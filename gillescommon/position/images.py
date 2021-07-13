@@ -56,7 +56,7 @@ queue_add_me = Template(r"queue_add_me.png", record_pos=(0.445, -0.207), resolut
 minus_me = Template(r"minus_me.png", record_pos=(-0.366, 0.233), resolution=(1440, 811))
 ok_me = Template(r"ok_me.png", record_pos=(0.001, 0.086), resolution=(1440, 811))
 cross_me = Template(r"cross_me.png", record_pos=(0.473, -0.262), resolution=(1440, 811))
-map_switch_me = Template(r"map_switch_me.png", record_pos=(0.45, 0.239), resolution=(1440, 811))
+city_switch_me = Template(r"city_switch_me.png", record_pos=(0.45, 0.239), resolution=(1440, 811))
 explore_2_me = Template(r"explore_2_me.png", record_pos=(0.287, -0.062), resolution=(1440, 811))
 explore_3_me = Template(r"explore_3_me.png", record_pos=(0.133, 0.124), resolution=(1440, 811))
 dispatch_me = Template(r"dispatch_me.png", record_pos=(0.313, -0.169), resolution=(1440, 811))
@@ -67,6 +67,8 @@ cross_2_me = Template(r"cross_2_me.png", record_pos=(0.356, -0.227), resolution=
 gather_me = Template(r"gather_me.png", record_pos=(0.207, 0.109), resolution=(1440, 811))
 select_troops_2_me = Template(r"select_troops_2_me.png", record_pos=(0.025, 0.206), resolution=(1440, 811))
 march_2_me = Template(r"march_2_me.png", record_pos=(0.231, 0.207), resolution=(1440, 811))
-
-
-
+map_switch_me = Template(r"map_switch_me.png", record_pos=(0.451, 0.238), resolution=(1440, 811))
+march_3_me = Template(r"march_3_me.png", record_pos=(-0.002, 0.091), resolution=(1440, 811))
+troop_list_cross_me = Template(r"troop_list_cross_me.png", record_pos=(0.422, -0.15), resolution=(1440, 811))
+march_4_me = Template(r"march_4_me.png", record_pos=(0.273, 0.237), resolution=(1440, 811))
+recall_me = Template(r"recall_me.png", record_pos=(0.299, -0.093), resolution=(1440, 811))

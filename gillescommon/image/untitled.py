@@ -1,0 +1,1 @@
+Template(r"tpl1626160048816.png", record_pos=(0.374, -0.023), resolution=(1440, 811))
